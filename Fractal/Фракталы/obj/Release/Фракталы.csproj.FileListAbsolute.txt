@@ -1,0 +1,9 @@
+C:\Users\artur\Desktop\4 курс\графика\Фракталы\Фракталы\bin\Release\Фракталы.exe.config
+C:\Users\artur\Desktop\4 курс\графика\Фракталы\Фракталы\bin\Release\Фракталы.exe
+C:\Users\artur\Desktop\4 курс\графика\Фракталы\Фракталы\bin\Release\Фракталы.pdb
+C:\Users\artur\Desktop\4 курс\графика\Фракталы\Фракталы\obj\Release\fracts.Form1.resources
+C:\Users\artur\Desktop\4 курс\графика\Фракталы\Фракталы\obj\Release\ex8.Properties.Resources.resources
+C:\Users\artur\Desktop\4 курс\графика\Фракталы\Фракталы\obj\Release\Фракталы.csproj.GenerateResource.Cache
+C:\Users\artur\Desktop\4 курс\графика\Фракталы\Фракталы\obj\Release\Фракталы.csproj.CoreCompileInputs.cache
+C:\Users\artur\Desktop\4 курс\графика\Фракталы\Фракталы\obj\Release\Фракталы.exe
+C:\Users\artur\Desktop\4 курс\графика\Фракталы\Фракталы\obj\Release\Фракталы.pdb

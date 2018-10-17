@@ -1,0 +1,28 @@
+C:\Users\artur\Desktop\4 курс\графика\Фракталы\Фракталы\bin\Debug\Фракталы.exe.config
+C:\Users\artur\Desktop\4 курс\графика\Фракталы\Фракталы\bin\Debug\Фракталы.exe
+C:\Users\artur\Desktop\4 курс\графика\Фракталы\Фракталы\bin\Debug\Фракталы.pdb
+C:\Users\artur\Desktop\4 курс\графика\Фракталы\Фракталы\obj\Debug\Фракталы.csprojResolveAssemblyReference.cache
+C:\Users\artur\Desktop\4 курс\графика\Фракталы\Фракталы\obj\Debug\fracts.Form1.resources
+C:\Users\artur\Desktop\4 курс\графика\Фракталы\Фракталы\obj\Debug\ex8.Properties.Resources.resources
+C:\Users\artur\Desktop\4 курс\графика\Фракталы\Фракталы\obj\Debug\Фракталы.csproj.GenerateResource.Cache
+C:\Users\artur\Desktop\4 курс\графика\Фракталы\Фракталы\obj\Debug\Фракталы.csproj.CoreCompileInputs.cache
+C:\Users\artur\Desktop\4 курс\графика\Фракталы\Фракталы\obj\Debug\Фракталы.exe
+C:\Users\artur\Desktop\4 курс\графика\Фракталы\Фракталы\obj\Debug\Фракталы.pdb
+C:\Users\1\Documents\Графика\графика\Фракталы\Фракталы\bin\Debug\Фракталы.exe.config
+C:\Users\1\Documents\Графика\графика\Фракталы\Фракталы\obj\Debug\Фракталы.exe
+C:\Users\1\Documents\Графика\графика\Фракталы\Фракталы\obj\Debug\Фракталы.pdb
+C:\Users\1\Documents\Графика\графика\Фракталы\Фракталы\bin\Debug\Фракталы.exe
+C:\Users\1\Documents\Графика\графика\Фракталы\Фракталы\bin\Debug\Фракталы.pdb
+C:\Users\1\Documents\Графика\графика\Фракталы\Фракталы\obj\Debug\Фракталы.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\Графика\графика\Фракталы\Фракталы\obj\Debug\fracts.Form1.resources
+C:\Users\1\Documents\Графика\графика\Фракталы\Фракталы\obj\Debug\ex8.Properties.Resources.resources
+C:\Users\1\Documents\Графика\графика\Фракталы\Фракталы\obj\Debug\Фракталы.csproj.GenerateResource.Cache
+C:\Users\1\Documents\CG-Fractal\Fractal\Фракталы\bin\Debug\Фракталы.exe.config
+C:\Users\1\Documents\CG-Fractal\Fractal\Фракталы\obj\Debug\Фракталы.exe
+C:\Users\1\Documents\CG-Fractal\Fractal\Фракталы\obj\Debug\Фракталы.pdb
+C:\Users\1\Documents\CG-Fractal\Fractal\Фракталы\bin\Debug\Фракталы.exe
+C:\Users\1\Documents\CG-Fractal\Fractal\Фракталы\bin\Debug\Фракталы.pdb
+C:\Users\1\Documents\CG-Fractal\Fractal\Фракталы\obj\Debug\Фракталы.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\CG-Fractal\Fractal\Фракталы\obj\Debug\fracts.Form1.resources
+C:\Users\1\Documents\CG-Fractal\Fractal\Фракталы\obj\Debug\ex8.Properties.Resources.resources
+C:\Users\1\Documents\CG-Fractal\Fractal\Фракталы\obj\Debug\Фракталы.csproj.GenerateResource.Cache
